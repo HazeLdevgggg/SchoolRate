@@ -1,7 +1,7 @@
-<h1 align="center"> GitPoint </h1> <br>
+<h1 align="center"> SchoolRate </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="http://i.imgur.com/VShxJHs.png" width="450">
+    <img alt="SchoolRate" title="SchoolRate" src="[http://i.imgur.com/VShxJHs.png](https://cdn.discordapp.com/attachments/1018614365299155105/1198609156446355466/logo.png?ex=65bf86c3&is=65ad11c3&hm=0e76114c06d2052dc7deed238996f89277917112788bccb6fa271e268f89d227&)" width="450">
   </a>
 </p>
 
