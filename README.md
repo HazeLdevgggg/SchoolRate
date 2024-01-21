@@ -27,8 +27,7 @@
 - [Features](#features)
 - [Feedback](#feedback)
 - [Contributors](#contributors)
-- [Build Process](#build-process)
-- [Backers](#backers-)
+
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -73,29 +72,9 @@ A few of the things you can do with GitPoint:
 
 ## Feedback
 
-Feel free to send us feedback on [Twitter](https://twitter.com/gitpointapp) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
-
-If there's anything you'd like to chat about, please feel free to join our [Gitter chat](https://gitter.im/git-point)!
-
+Feel free to send us feedback on discord, you can add : hazel_dev . If you have any question or idea !
 ## Contributors
 
-This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
-
-## Build Process
-
-- Follow the [React Native Guide](https://facebook.github.io/react-native/docs/getting-started.html) for getting started building a project with native code. **A Mac is required if you wish to develop for iOS.**
-- Clone or download the repo
-- `yarn` to install dependencies
-- `yarn run link` to link react-native dependencies
-- `yarn start:ios` to start the packager and run the app in the iOS simulator (`yarn start:ios:logger` will boot the application with [redux-logger](<https://github.com/evgenyrodionov/redux-logger>))
-- `yarn start:android` to start the packager and run the app in the the Android device/emulator (`yarn start:android:logger` will boot the application with [redux-logger](https://github.com/evgenyrodionov/redux-logger))
-
-Please take a look at the [contributing guidelines](./CONTRIBUTING.md) for a detailed process on how to build your application as well as troubleshooting information.
-
-**Development Keys**: The `CLIENT_ID` and `CLIENT_SECRET` in `api/index.js` are for development purposes and do not represent the actual application keys. Feel free to use them or use a new set of keys by creating an [OAuth application](https://github.com/settings/applications/new) of your own. Set the "Authorization callback URL" to `gitpoint://welcome`.
-
-## Contributors 
-
-Thank you to all our Contributors! 🙏 
+Thanks you all contributors !
 
 
