@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  GitHub in your pocket. Built with React Native.
+  Rate your teachers and your school ( Only in France )
 </p>
 
 <p align="center">
